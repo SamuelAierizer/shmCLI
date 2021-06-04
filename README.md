@@ -6,31 +6,28 @@ The project was started as a laboratory work for UTCN Calculatoare, LFT course. 
 
 To clone:
 
-https://github.com/SamuelAierizer/shmCLI.git
-
+    git clone https://github.com/SamuelAierizer/shmCLI.git
 
 How to build if you made changes:
 
-lex shmCLI.l
-
-yacc -d shmCLI.y
-
-gcc lex.yy.c y.tab.c -ll -o shmCLI
+    lex shmCLI.l
+    yacc -d shmCLI.y
+    gcc lex.yy.c y.tab.c -ll -o shmCLI
 
 
 How to run: 
 
-./shmCLI
+    ./shmCLI
 
 For the list of options type:
 
-shm -help
+    shm -help
 
 
 There are 2 tests built in:
 
-./shmCLI < test1		-> will build a "new" folder with a basic class and main function
+    ./shmCLI < test1		-> will build a "new" folder with a basic class and main function
 
-./shmCLI < test2		-> builds "project" with multiple examples of how commands work
+    ./shmCLI < test2		-> builds "project" with multiple examples of how commands work
 
-./shmCLI < purge		-> remove "project" folder and all of it's contents
+    ./shmCLI < purge		-> remove "project" folder and all of it's contents
