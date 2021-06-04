@@ -31,7 +31,10 @@ There are 2 tests built in:
     ./shmCLI < purge		-> remove "project" folder and all of it's contents
 
 
-[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-1.png)
-[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-2.png)
-[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-3.png)
-[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-4.png)
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-1.png?raw=true)
+
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-2.png?raw=true)
+
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-3.png?raw=true)
+
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-4.png?raw=true)
