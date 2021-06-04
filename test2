@@ -1,0 +1,21 @@
+shm start project
+
+shm generate controller
+
+shm generate model
+
+shm generate repo
+
+shm generate service
+
+shm generate controller Profile -rest
+
+shm generate controller Person -mapping person_man/a
+
+shm generate controller User -login -rest
+
+shm generate model User -constructor -getset
+
+shm generate model Person -getset
+
+shm generate repo User -setCrud Long

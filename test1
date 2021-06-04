@@ -1,0 +1,5 @@
+shm -version
+
+shm start new
+
+shm generate model User -constructor -getset
