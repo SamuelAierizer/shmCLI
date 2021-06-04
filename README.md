@@ -27,7 +27,11 @@ For the list of options type:
 There are 2 tests built in:
 
     ./shmCLI < test1		-> will build a "new" folder with a basic class and main function
-
     ./shmCLI < test2		-> builds "project" with multiple examples of how commands work
-
     ./shmCLI < purge		-> remove "project" folder and all of it's contents
+
+
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-1.png)
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-2.png)
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-3.png)
+[alt text](https://github.com/SamuelAierizer/shmCLI/blob/main/Screenshots/Screenshot-4.png)
